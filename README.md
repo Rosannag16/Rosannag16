@@ -21,5 +21,5 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)
 ![Sass](https://img.shields.io/badge/-Sass-black?logo=sass&style=social)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social)
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social) 
 ![Spring](https://img.shields.io/badge/-Spring-black?logo=spring&style=social)
