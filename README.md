@@ -12,15 +12,14 @@
 
 ⚡ Fun fact: Designing on the computer brings me tranquility. I find peace and concentration in working on software development projects, creating solutions and seeing my ideas come to life through code.
 
-📝 What i've learnt till now: 
-![](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)
-![](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)
-![](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)
-![](https://img.shields.io/badge/-AngularJS-black?logo=angularjs&style=social)
-![](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)
-![](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)
-![](https://img.shields.io/badge/-Sass-black?logo=sass&style=social)
-![](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social)
-![](https://img.shields.io/badge/-Java-black?logo=java&style=social)
-![](https://img.shields.io/badge/-Apache-black?logo=apache&style=social)
-![](https://img.shields.io/badge/-Spring-black?logo=spring&style=social)
+📝 What i've learnt till now:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)
+![Angular](https://img.shields.io/badge/-Angular-black?logo=angular&style=social)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)
+![Sass](https://img.shields.io/badge/-Sass-black?logo=sass&style=social)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social)
+![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)
+![Spring](https://img.shields.io/badge/-Spring-black?logo=spring&style=social)
