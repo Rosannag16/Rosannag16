@@ -6,7 +6,7 @@
 
 💬 Let's collaborate on projects aimed at creating robust and user-friendly web applications.
 
-📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/rosa-giordano-9a12a32b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhN7WOMqDQEOgoEud5kEzkg%3D%3D).
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/rosa-giordano-9a12a32b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhN7WOMqDQEOgoEud5kEzkg%3D%3D).
 
 😄 Pronouns: she/her.
 
