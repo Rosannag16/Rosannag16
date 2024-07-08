@@ -22,6 +22,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-black?logo=sass&style=social)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social)
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&logoColor=white&style=social)
+![Apache](https://img.shields.io/badge/-Apache-black?logo=apache&style=social)
 ![Spring](https://img.shields.io/badge/-Spring-black?logo=spring&style=social)
 
 Feel free to connect with me on LinkedIn if you'd like to collaborate or discuss anything related to software development!
