@@ -12,7 +12,7 @@
 
 ⚡ Fun fact: Designing on the computer brings me tranquility. I find peace and concentration in working on software development projects, creating solutions and seeing my ideas come to life through code.
 
-📝 What i've learnt till now:
+📝 My skills learned so far:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)
