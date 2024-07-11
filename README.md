@@ -2,8 +2,6 @@
 
 🚀 Passionate about software development and technology since childhood, I embarked on my journey into the world of IT after completing my linguistic studies. I am determined and proficient in software development, with strong technical and linguistic skills. 
 
-💬 Let's collaborate on projects aimed at creating robust and user-friendly web applications.
-
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/rosa-giordano-9a12a32b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhN7WOMqDQEOgoEud5kEzkg%3D%3D).
 
 😄 Pronouns: she/her.
